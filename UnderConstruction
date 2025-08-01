@@ -1,0 +1,58 @@
+<html>
+  <head>
+    <style>
+      html, body {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        overflow: hidden;
+        font-family: 'Segoe UI', sans-serif;
+        background-color: #f9f9f9;
+      }
+      .center-container {
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .content-box {
+        max-width: 600px;
+        padding: 40px;
+        background-color: #fff;
+        border-radius: 12px;
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+        text-align: center;
+      }
+      h1 {
+        font-size: 40px;
+        color: #333;
+      }
+      p {
+        font-size: 18px;
+        color: #666;
+        margin: 10px 0;
+      }
+      .phone a {
+        color: #007BFF;
+        text-decoration: none;
+      }
+      hr {
+        margin: 30px auto;
+        width: 60%;
+        border: none;
+        border-top: 1px solid #ddd;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="center-container">
+      <div class="content-box">
+        <h1>🚧 Under Construction 🚧</h1>
+        <p style="font-size: 22px; color: #555;">Our website is currently being built. We’ll be launching soon.</p>
+        <hr>
+        <p>This site is owned and operated by <strong>Kevin DeJesus</strong>, Founder of <strong>Geopolitical Works</strong>.</p>
+        <p class="phone">📞 Contact: <a href="tel:4015009655">401-500-9655</a></p>
+      </div>
+    </div>
+  </body>
+</html>
